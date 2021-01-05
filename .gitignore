@@ -1,0 +1,4 @@
+#Ignore Python Files et al.
+
+driveuploader
+__pycache__
